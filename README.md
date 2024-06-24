@@ -1,3 +1,9 @@
+Name:Renangi vijay raghava
+Company: CODSOFT
+ID:CS11WX274662
+Duration: 10 june to 10 july 2024
+Domain:Web Development
+
 A tribute page is a web page created to honor and celebrate someone you admire.
 It can be for anyone who has had a significant impact on your life,
 a historical figure you find inspiring, or even a fictional character that resonates with you.
